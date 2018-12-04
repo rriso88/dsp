@@ -32,7 +32,7 @@ do all of these without error:
 import numpy
 import scipy
 import matplotlib
-import pandas
+import pandas>>
 import statsmodels
 import sklearn
 ```
@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I did not install either, I am abroad so I could not access Anaconda and I am not sure how to open Git and instert Python commands. I am confused! However, in my Mac Terminal it says Python 3.7.0 is installed.
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+ Python 3.7.0
 
  
 
