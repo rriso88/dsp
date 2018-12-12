@@ -20,7 +20,29 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+* show current working directory path
+$ pwd
+* change working directory
+$ cd newdir
+* go up one level
+$ cd ..
+* creating a directory
+$ mkdir newdirname
+* deleting a directory
+$ rmdir newdirname
+* creating a file using `touch` command
+$ touch filename.extension
+* deleting a file
+$ rm -Rf filename
+* renaming a file
+$ mv filename.extension newfilename.extension
+* listing hidden files
+$ defaults write com.apple.finder AppleShowAllFiles YES
+  Press return
+  Hold the ‘Option/alt’ key, then right click on the Finder icon in the dock and click Relaunch
+* copying a file from one directory to another
+mv test/testfilenew.txt test2/testfilenew.txt
+
 
 ---
 
