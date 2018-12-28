@@ -6,7 +6,7 @@ x = np.random.random(1000)
 pmf = thinkstats2.Pmf(x)  
 thinkplot.Pmf(pmf, linewidth = 0.1)  
 thinkplot.Config(xlabel = 'Random', ylabel = 'PMF') 
-
+![Alt text](https://github.com/rriso88/dsp/blob/master/Screen%20Shot%202018-12-28%20at%2012.28.36%20PM.png)
   
 **CDF is a function that gives the probability that a discrete random number is less than some value**  
 cdf = thinkstats2.Cdf(x)  
