@@ -90,9 +90,9 @@ P(I) = Probability that he had an identical twin = 1/300
 P(F) = Probability that he had a fraternal twin = 1/125  
 P(B) = Probability that he had a twin brother  
   
-P(B|F) = Probability that both fraternal twins are male = (1/2)(1/2) = 1/4
-P(B|I) = Probability that both identical twins are male = 1/2
-
+P(B|F) = Probability that both fraternal twins are male = (1/2)(1/2) = 1/4  
+P(B|I) = Probability that both identical twins are male = 1/2  
+  
 P(B) = Probability that he had a twin brother  
 = P(B|I)P(I) + P(B|F)P(F) = (1/2)(1/300) + (1/4)(1/125) = 1/600 + 1/500  
 = 5/3000 + 6/3000 = 11/3000
