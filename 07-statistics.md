@@ -107,7 +107,10 @@ P(I|B) = Probability he was identical given he had a twin brother
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
- REPLACE THIS TEXT WITH YOUR RESPONSE>>
+Frequentist statistics uses frequencies or proportions to draw conclusing from sample data.  
+Pobabilities are equivalent to the long-term frequency of occurence of an event.  
+Beyesian statistics uses historic and external information to develop a probability with which an event might occur.  
+
 
 ---
 
